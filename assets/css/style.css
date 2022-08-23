@@ -53,9 +53,10 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100%;
     background-color: white;
+    text-align: center
 }
 
 #banner img {
